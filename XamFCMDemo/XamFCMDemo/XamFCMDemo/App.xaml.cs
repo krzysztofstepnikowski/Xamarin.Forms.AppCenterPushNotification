@@ -19,7 +19,7 @@ namespace XamFCMDemo
         protected override void OnStart()
         {
             //Android
-            AppCenter.Start("67cfe62b-1b15-4fc2-aed7-7ed32ebb00b9", typeof(Push));
+            AppCenter.Start("ba2b0474-c5e1-4a35-8f68-3973612575e0", typeof(Push));
         }
 
         protected override void OnSleep()
