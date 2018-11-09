@@ -11,7 +11,7 @@
 
     <StackLayout Padding="20">
         <!-- Place new controls here -->
-        <Button Text="Log token" 
+        <Button Text="Log tokens" 
            HorizontalOptions="FillAndExpand"
            VerticalOptions="CenterAndExpand"
            Command="{Binding GetTokenCommand}"/>
