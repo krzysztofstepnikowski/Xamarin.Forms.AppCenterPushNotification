@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamFCMDemo"
+             xmlns:viewModels="clr-namespace:XamFCMDemo.ViewModels;assembly=XamFCMDemo"
+             x:Class="XamFCMDemo.Views.MainPage">
+
+    <ContentPage.BindingContext>
+        <viewModels:MainPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="20">
+        <!-- Place new controls here -->
+        <Button Text="Log token" 
+           HorizontalOptions="FillAndExpand"
+           VerticalOptions="CenterAndExpand"
+           Command="{Binding GetTokenCommand}"/>
+    </StackLayout>
+
+</ContentPage>

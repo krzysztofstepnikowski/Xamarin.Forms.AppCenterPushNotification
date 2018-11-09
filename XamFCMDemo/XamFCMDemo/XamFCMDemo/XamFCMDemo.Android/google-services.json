@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "34727624295",
+    "firebase_url": "https://coverise-1734a.firebaseio.com",
+    "project_id": "coverise-1734a",
+    "storage_bucket": "coverise-1734a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34727624295:android:7a24acd883d0969b",
+        "android_client_info": {
+          "package_name": "com.companyname.XamFCMDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34727624295-6dcrere69dfqtm7rusvc9qpfvmpave0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJYaHEceUW3cQ4BJVXURWefKx8zPSDMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34727624295:android:890c87582ab8468d",
+        "android_client_info": {
+          "package_name": "com.coverise.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34727624295-6dcrere69dfqtm7rusvc9qpfvmpave0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJYaHEceUW3cQ4BJVXURWefKx8zPSDMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
